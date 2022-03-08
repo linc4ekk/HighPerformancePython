@@ -62,4 +62,3 @@ Use Jupyter notebook templates to make something mre interesting
 - Split the job between processes and use Reduce collective communication
 - Check the accuracy when taking more nodes (i.e. smaller step)
 - Check the speedup when taking more processes
-![integral](https://github.com/zakajd/HighPerformancePython/blob/master/imgs/integral.png)
