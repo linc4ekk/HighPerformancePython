@@ -3,7 +3,7 @@ Solutions of tasks in High Performance Python Lab course at Skoltech
 
 **Task 1**: Bifurcation map
 
-Plot classical bifurcation map. $$x_{n+1} = r * x_n * (1 - x_n)$$ where $x_0 = rand(0, 1)$, $r$ - const.
+Plot classical bifurcation map. x_{n+1} = r * x_n * (1 - x_n) where x_0 = rand(0, 1), r - const.
 
 | | Criteria name  | Max score |
 | -- | ------------- | ------------- |
